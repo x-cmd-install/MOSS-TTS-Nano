@@ -1,0 +1,57 @@
+about:
+  description: A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation
+  license: Apache-2.0
+  homepage: https://openmoss.github.io/MOSS-TTS-Nano-Demo/
+  head: 7f75b9e
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-03T04:10:27Z
+timeline:
+  created: 2026-04-10
+  lastCommit: 2026-08-30
+  lastRelease: ?
+popularity:
+  star: 4283
+  watcher: 24
+  fork: 547
+  release: 0
+  contributor: 12
+  pullRequest: 10
+  issue: 81
+language:
+  Python: 432260
+  Shell: 4153
+totalLine: 436413
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 4
+    commit: 1
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 1
+    openPR: 3
+    closedIssue: 9
+    openIssue: 11
+    commit: 4
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 6
+    openPR: 7
+    closedIssue: 64
+    openIssue: 17
+    commit: 75
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 6
+    openPR: 7
+    closedIssue: 64
+    openIssue: 17
+    commit: 75
