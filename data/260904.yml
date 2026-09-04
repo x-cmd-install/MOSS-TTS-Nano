@@ -7,7 +7,7 @@ about:
   head: 7f75b9e
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:28:22Z
+  collectedAt: 2026-09-04T21:06:24Z
 timeline:
   created: 2026-04-10
   lastCommit: 2026-08-30
@@ -81,5 +81,58 @@ total:
   openIssue: 17
   commit: 76
 ---
+path: /home/runner/.x-repo/github.com/OpenMOSS/MOSS-TTS-Nano
+collectedAt: 2026-09-04T21:06:26Z
+loc:
+  Python:
+    code: 9481
+    comments: 61
+    blanks: 997
+    files: 21
+  Kotlin:
+    code: 746
+    comments: 2
+    blanks: 60
+    files: 6
+  Svg:
+    code: 105
+    comments: 0
+    blanks: 6
+    files: 1
+  Sh:
+    code: 104
+    comments: 1
+    blanks: 13
+    files: 1
+  Toml:
+    code: 42
+    comments: 0
+    blanks: 4
+    files: 1
+  Xml:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 3
+  Yaml:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 941
+    blanks: 436
+    files: 5
+  Text:
+    code: 0
+    comments: 11
+    blanks: 0
+    files: 1
+total:
+  code: 10766
+  comments: 1016
+  blanks: 1523
+  files: 40
 ---
 
