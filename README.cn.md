@@ -4,7 +4,7 @@
 
 A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation
 
-![MOSS-TTS-Nano](https://repo.x-cmd.io/MOSS-TTS-Nano.svg)
+![MOSS-TTS-Nano](https://repo.x-cmd.io/MOSS-TTS-Nano.svg?lang=zh)
 
 ## 安装
 
@@ -20,7 +20,7 @@ x install MOSS-TTS-Nano
 
 ## 流行度
 
-- **Star**: 4,317 · **Fork**: 546 · **开放 issue**: 81 · **贡献者**: 12
+- **Star**: 4,318 · **Fork**: 546 · **开放 issue**: 81 · **贡献者**: 12
 
 ## 累计统计
 
@@ -55,4 +55,4 @@ MOSS-TTS-Nano 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:33Z._

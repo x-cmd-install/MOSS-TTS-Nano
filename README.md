@@ -20,7 +20,7 @@ x install MOSS-TTS-Nano
 
 ## Popularity
 
-- **Stars**: 4,317 · **Forks**: 546 · **Open issues**: 81 · **Contributors**: 12
+- **Stars**: 4,318 · **Forks**: 546 · **Open issues**: 81 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -51,8 +51,8 @@ Total: **10,517** lines of code across **30** files in the top 5 languages.
 Install metadata for MOSS-TTS-Nano lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `MOSS-TTS-Nano` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/MOSS-TTS-Nano.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/MOSS-TTS-Nano.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:30:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:33Z._
