@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:30:03Z
+  collectedAt: 2026-09-11T20:30:11Z
 timeline:
   created: 2026-04-10
   lastCommit: 2026-09-06
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4322
+  star: 4329
   watcher: 24
-  fork: 546
+  fork: 548
   release: 0
   contributor: 12
   pullRequest: 16
@@ -84,7 +84,7 @@ total:
   commit: 77
 ---
 path: /home/runner/.x-repo/github.com/OpenMOSS/MOSS-TTS-Nano
-collectedAt: 2026-09-11T04:30:06Z
+collectedAt: 2026-09-11T20:30:13Z
 loc:
   Python:
     code: 9481
