@@ -12,29 +12,7 @@ A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloni
 x install MOSS-TTS-Nano
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/OpenMOSS/MOSS-TTS-Nano>
-- **Homepage**: <https://openmoss.ai/MOSS-TTS-Nano-Demo/>
-- **License**: Apache-2.0
-
-## Popularity
-
-- **Stars**: 4,318 · **Forks**: 546 · **Open issues**: 81 · **Contributors**: 12
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 7 · **Closed issues**: 64 · **Open issues**: 17 · **Commits**: 77
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 2 |
-| 90d | 2026-06-12 | 0 | 1 | 2 | 8 | 11 | 5 |
-| 360d | 2025-09-15 | 0 | 6 | 7 | 64 | 17 | 76 |
-
-## Code size
+## Code insight
 
 Total: **10,517** lines of code across **30** files in the top 5 languages.
 
@@ -46,6 +24,31 @@ Total: **10,517** lines of code across **30** files in the top 5 languages.
 | Sh | 104 | 1 | 13 | 1 |
 | Toml | 42 | 0 | 4 | 1 |
 
+## Source
+
+- **Upstream**: <https://github.com/OpenMOSS/MOSS-TTS-Nano>
+- **Homepage**: <https://openmoss.ai/MOSS-TTS-Nano-Demo/>
+- **License**: Apache-2.0
+
+## Popularity
+
+- **Stars**: 4,319 · **Forks**: 546 · **Open issues**: 81 · **Contributors**: 12
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 7 · **Closed issues**: 64 · **Open issues**: 17 · **Commits**: 77
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 1 | 2 |
+| last60d | 2026-07-13 | 0 | 1 | 1 | 2 | 5 | 3 |
+| 90d | 2026-06-13 | 0 | 1 | 2 | 8 | 11 | 5 |
+| last180d | 2026-03-15 | 0 | 6 | 7 | 64 | 17 | 76 |
+| 360d | 2025-09-16 | 0 | 6 | 7 | 64 | 17 | 76 |
+| last720d | 2024-09-21 | 0 | 6 | 7 | 64 | 17 | 77 |
+
 ## Improve this data
 
 Install metadata for MOSS-TTS-Nano lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `MOSS-TTS-Nano` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -55,4 +58,4 @@ Install metadata for MOSS-TTS-Nano lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:33Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:16:40Z._
