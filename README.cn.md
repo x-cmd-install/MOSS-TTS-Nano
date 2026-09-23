@@ -4,7 +4,7 @@
 
 A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation
 
-[![x-cmd/install — MOSS-TTS-Nano Code Quality Monitoring Repo Card](https://repo.x-cmd.io/MOSS-TTS-Nano.svg?lang=zh)](https://x-cmd.com/install/MOSS-TTS-Nano)
+[![x-cmd/install — MOSS-TTS-Nano Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/MOSS-TTS-Nano.svg?lang=zh)](https://x-cmd.com/install/MOSS-TTS-Nano)
 
 ## 安装
 
@@ -32,22 +32,22 @@ x install MOSS-TTS-Nano
 
 ## 流行度
 
-- **Star**: 4,392 · **Fork**: 556 · **开放 issue**: 81 · **贡献者**: 12
+- **Star**: 4,395 · **Fork**: 556 · **开放 issue**: 82 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 6 · **开放 PR**: 7 · **已关闭 issue**: 64 · **开放 issue**: 17 · **提交数**: 77
+- **发布数**: 0 · **已合并 PR**: 6 · **开放 PR**: 7 · **已关闭 issue**: 64 · **开放 issue**: 18 · **提交数**: 77
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 0 | 1 | 1 | 0 | 4 | 2 |
-| 90d | 2026-06-24 | 0 | 1 | 2 | 4 | 10 | 5 |
-| last180d | 2026-03-26 | 0 | 6 | 7 | 64 | 17 | 76 |
-| 360d | 2025-09-27 | 0 | 6 | 7 | 64 | 17 | 76 |
-| last720d | 2024-10-02 | 0 | 6 | 7 | 64 | 17 | 77 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 2 |
+| last60d | 2026-07-25 | 0 | 1 | 1 | 0 | 5 | 2 |
+| 90d | 2026-06-25 | 0 | 1 | 2 | 4 | 11 | 5 |
+| last180d | 2026-03-27 | 0 | 6 | 7 | 64 | 18 | 76 |
+| 360d | 2025-09-28 | 0 | 6 | 7 | 64 | 18 | 76 |
+| last720d | 2024-10-03 | 0 | 6 | 7 | 64 | 18 | 77 |
 
 ## 改进这些数据
 
@@ -58,4 +58,4 @@ MOSS-TTS-Nano 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:47:42Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:38:03Z._
