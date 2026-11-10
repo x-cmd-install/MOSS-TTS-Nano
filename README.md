@@ -32,22 +32,22 @@ Total: **10,517** lines of code across **30** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,642 · **Forks**: 576 · **Open issues**: 85 · **Contributors**: 12
+- **Stars**: 4,652 · **Forks**: 580 · **Open issues**: 85 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 6 · **Closed issues**: 64 · **Open issues**: 21 · **Commits**: 77
+- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 7 · **Closed issues**: 64 · **Open issues**: 21 · **Commits**: 77
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 4 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 5 | 2 |
-| last180d | 2026-05-12 | 0 | 3 | 2 | 15 | 17 | 7 |
-| 360d | 2025-11-13 | 0 | 6 | 6 | 64 | 21 | 76 |
-| last720d | 2024-11-18 | 0 | 6 | 6 | 64 | 21 | 77 |
+| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 1 | 0 | 5 | 2 |
+| last180d | 2026-05-14 | 0 | 3 | 3 | 14 | 17 | 7 |
+| 360d | 2025-11-15 | 0 | 6 | 7 | 64 | 21 | 76 |
+| last720d | 2024-11-20 | 0 | 6 | 7 | 64 | 21 | 77 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for MOSS-TTS-Nano lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:56:06Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:07:09Z._
