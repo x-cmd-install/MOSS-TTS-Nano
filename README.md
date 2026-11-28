@@ -27,27 +27,27 @@ Total: **10,517** lines of code across **30** files in the top 5 languages.
 ## Source
 
 - **Upstream**: <https://github.com/OpenMOSS/MOSS-TTS-Nano>
-- **Homepage**: <https://openmoss.ai/MOSS-TTS-Nano-Demo/>
+- **Homepage**: <https://www.moss-ai.com/models/moss-tts-nano>
 - **License**: Apache-2.0
 
 ## Popularity
 
-- **Stars**: 4,720 · **Forks**: 587 · **Open issues**: 86 · **Contributors**: 12
+- **Stars**: 4,721 · **Forks**: 587 · **Open issues**: 86 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 8 · **Closed issues**: 64 · **Open issues**: 22 · **Commits**: 77
+- **Releases**: 0 · **Merged PRs**: 7 · **Open PRs**: 8 · **Closed issues**: 64 · **Open issues**: 22 · **Commits**: 78
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 2 | 0 | 4 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 2 | 0 | 5 | 0 |
-| last180d | 2026-05-31 | 0 | 1 | 4 | 9 | 17 | 0 |
-| 360d | 2025-12-02 | 0 | 6 | 8 | 64 | 22 | 0 |
-| last720d | 2024-12-07 | 0 | 6 | 8 | 64 | 22 | 77 |
+| 30d | 2026-10-29 | 0 | 1 | 2 | 0 | 2 | 1 |
+| last60d | 2026-09-29 | 0 | 1 | 2 | 0 | 4 | 1 |
+| 90d | 2026-08-30 | 0 | 1 | 2 | 0 | 5 | 2 |
+| last180d | 2026-06-01 | 0 | 2 | 4 | 9 | 17 | 7 |
+| 360d | 2025-12-03 | 0 | 7 | 8 | 64 | 22 | 77 |
+| last720d | 2024-12-08 | 0 | 7 | 8 | 64 | 22 | 78 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for MOSS-TTS-Nano lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:15:05Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:35:53Z._
